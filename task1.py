@@ -31,13 +31,12 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
     robots_url = base_url + robots_item
     page = requests.get(robots_url)
 
+    # Import robots file and derive the page rules
     from robots import process_robots, check_link_ok
-
     robots_rules = process_robots(page.text)
 
-    test_links = ["http://115.146.93.142/wiki/Musical_tuning"]
-
-    for test_link in test_links:
+    # DEBUGGING CODE: Print which links are ok
+    for test_link in starting_links:
         print("Can we visit {}? {}".format(test_link, "Yes" if check_link_ok(robots_rules, test_link) else"No"))
 
     return {}
