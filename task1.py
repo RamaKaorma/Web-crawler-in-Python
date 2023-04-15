@@ -24,12 +24,22 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
     # value.
     # Implement Task 1 here
     
+    # Find the base URL
+    from urllib.parse import urlparse
+
+    parsed_url = urlparse(starting_links[0])
+    base_url = parsed_url.scheme + '://' + parsed_url.netloc
+    path = parsed_url.path
+    # .scheme returns the protocol, .netloc returns the website www.____.com/net/etc, path is /sub-link/sub-link
+
+    ### READING robots.txt
+
     # Specify the location of robots.txt
-    base_url = "http://115.146.93.142/samplewiki"
     robots_item = '/robots.txt'
 
     robots_url = base_url + robots_item
-    page = requests.get(robots_url)
+    print(robots_url)
+    page = requests.get(robots_url) # Gets the server's response to the HTTP request
 
     # Import robots file and derive the page rules
     from robots import process_robots, check_link_ok
@@ -38,5 +48,6 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
     # DEBUGGING CODE: Print which links are ok
     for test_link in starting_links:
         print("Can we visit {}? {}".format(test_link, "Yes" if check_link_ok(robots_rules, test_link) else"No"))
+
 
     return {}
