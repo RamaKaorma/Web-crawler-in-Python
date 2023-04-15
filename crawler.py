@@ -1,7 +1,3 @@
-### CREATING THE CRAWLER
-import re
-
-page_limit = SAFE_PAGE_LIMIT
 
 # Specify the initial page to crawl
 seed_item = 'sample_wiki/A12_scale'
