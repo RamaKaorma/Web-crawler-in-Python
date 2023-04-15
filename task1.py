@@ -36,9 +36,7 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
 
     # Specify the location of robots.txt
     robots_item = '/robots.txt'
-
     robots_url = base_url + robots_item
-    print(robots_url)
     page = requests.get(robots_url) # Gets the server's response to the HTTP request
 
     # Import robots file and derive the page rules
