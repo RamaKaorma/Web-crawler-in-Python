@@ -30,12 +30,13 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
         parsed_url = urlparse(start_link)
         base_url = parsed_url.scheme + '://' + parsed_url.netloc
         path = parsed_url.path
-        print(base_url)
-        print(path)
-        print()
-        print()
+        directory = path.split('/')[1]
 
-        
+        # Set of things to check for eaach link
+        check = set()
+        check.add(parsed_url.netloc)
+        check.add(directory)
+
         # .scheme returns the protocol, .netloc returns the website 
             # www.____.com/net/etc, path is /sub-link/sub-link
 
@@ -133,7 +134,7 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
             
             # print("pages_visited = " + str(pages_visited))
             # print("to_visit = " + str(len(to_visit)))
-            print("visited = " + str(len(visited)))
+            # print("visited = " + str(len(visited)))
             # print()
             # print()
 
