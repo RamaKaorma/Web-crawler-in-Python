@@ -9,7 +9,7 @@ from typing import Dict, List
 
 import requests
 import bs4
-import urllib
+from urllib.parse import urlparse, urljoin
 from robots import process_robots, check_link_ok
 
 # A simple page limit used to catch procedural errors.
@@ -23,22 +23,15 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
     # link as the key and the list of crawled links for the
     # value.
     # Implement Task 1 here
-
-    
-    from urllib.parse import urlparse, urljoin
+    output = {} # The final dictionary, to be converted to JSON
 
     for start_link in starting_links:
+        output[start_link] = [];
         ### FIND THE BASE URL ########################################################
         parsed_url = urlparse(start_link)
         base_url = parsed_url.scheme + '://' + parsed_url.netloc
         path = parsed_url.path
         directory = path.split('/')[1]
-
-        # Set of things to check for eaach link
-        check = set()
-        check.add(parsed_url.netloc)
-        check.add(directory)
-
         # .scheme returns the protocol, .netloc returns the website 
             # www.____.com/net/etc, path is /sub-link/sub-link
 
@@ -64,15 +57,12 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
 
         # Search for all links that lead to "/samplewiki" or so, storing them as the seed link
         path_segment = path.split('/')
-        directory = base_url + '/' + path_segment[1]
         seed_links = soup.findAll('a', href=re.compile(f"^{path}"))
 
         # Find all the links in the html, making sure they are samplewiki or fullwiki
             # "All pages you need to crawl will be in the /samplewiki/ or /fullwiki/ 
             # section of the server, other links can freely be ignored"
         links = soup.findAll('a', href=re.compile(f".*\/{path_segment[1]}\/.*"))
-        # for i in links:
-        #     print(i)
 
         # Check if the seed links cannot be visited, remove if so
         to_visit = []
@@ -138,10 +128,11 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
 
             # Increase the number of pages we've visited so the page limit is enforced.
             pages_visited = pages_visited + 1
+            # Add the link to the json file
+            output[start_link].append(full_url)
+    
+    # Dump the output in a json file
+    with open(f'task1_my_{directory}', 'w') as f:
+        output_json = json.dump(output, f)
 
-            print("visited = " + str(len(visited)))
-
-        print('\nvisited: {0:5d} pages; to_visit: {1:5d} pages '.format(len(visited), len(to_visit)))
-        for i in visited:
-            print(i)
-    return {}
+    return output_json
