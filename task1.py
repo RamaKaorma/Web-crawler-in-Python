@@ -54,19 +54,21 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
         seed_url = base_url + path
         page = requests.get(seed_url)
         soup = bs4.BeautifulSoup(page.text, 'html.parser')
-        
+
         # Initiate a dictionary to hold all the links and whether they've been visited
         visited = {}
         visited[seed_url] = True
         pages_visited = 1
 
-        # Find all the links in the html
-        links = soup.findAll('a')
-
-        # Search for all links that lead to "/sample_wiki" or so, storing them as the seed link
+        # Search for all links that lead to "/samplewiki" or so, storing them as the seed link
         path_segment = path.split('/')
         directory = base_url + '/' + path_segment[1]
         seed_links = soup.findAll('a', href=re.compile(f"^{path}"))
+
+        # Find all the links in the html
+        links = soup.findAll('a', href=re.compile(f".*\/{path_segment[1]}\/.*"))
+        # for i in links:
+        #     print(i)
 
         # Check if the seed links cannot be visited, remove if so
         to_visit = []
@@ -76,8 +78,16 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
             if not check_link_ok(robot_rules, sub_path):
                 continue
             to_visit.append(urljoin(seed_url, link['href']))
-            print(urljoin(seed_url, link['href']))
+
+        for link in links:
+            sub_url = urlparse(link['href'])
+            sub_path = sub_url.path
+            if link not in seed_links and "href" in link.attrs:
+                if not check_link_ok(robot_rules, link['href']) or not check_link_ok(robot_rules, sub_path):
+                    continue
+                to_visit.append(urljoin(seed_url, link['href']))
         # Find all outbound links on successor pages and explore each one
+        
         while (to_visit):
             # Impose a limit to avoid breaking the site
             if pages_visited == SAFE_PAGE_LIMIT:

@@ -1,0 +1,204 @@
+Executing Task 1 for verifying against sample data...
+
+<a class="mw-redirect" href="/samplewiki/Undecimal_minor_sixth" title="Undecimal minor sixth">11/7</a>
+<a href="/samplewiki/Harry_Partch's_43-tone_scale" title="Harry Partch's 43-tone scale">Harry Partch's 43-tone scale</a>
+<a href="/samplewiki/Pythagorean_tuning" title="Pythagorean tuning">Pythagorean tuning</a>
+<a accesskey="c" href="/samplewiki/A12_scale" title="View the content page [c]"><span>Article</span></a>
+<a href="/samplewiki/A12_scale"><span>Read</span></a>
+first
+next
+first
+next
+http://115.146.93.142/samplewiki/A12_scale
+visited = 1
+http://115.146.93.142/samplewiki/A12_scale
+visited = 1
+http://upload.wikimedia.org/wikipedia/commons/0/09/A12_4_7_10_on_C.mid
+visited = 2
+http://upload.wikimedia.org/wikipedia/commons/8/8c/A12_scale_on_C.mid
+visited = 3
+http://upload.wikimedia.org/wikipedia/commons/5/51/Just_major_triad_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/4/4c/Unison_on_C.mid
+visited = 4
+http://upload.wikimedia.org/wikipedia/commons/7/79/Greater_undecimal_neutral_second_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/6/63/One_step_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/4/42/Just_minor_third_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/1/1d/Two_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/c/c1/3_steps_in_just_A12_on_middle_C_FU23.mid
+http://upload.wikimedia.org/wikipedia/commons/6/6c/Three_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/e/e3/Greater_septimal_tritone_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/4/46/Four_steps_in_A12_on_middle_C.mid
+visited = 5
+http://115.146.93.142/samplewiki/Undecimal_minor_sixth
+visited = 6
+http://upload.wikimedia.org/wikipedia/commons/7/7c/Undecimal_minor_sixth_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/d/d0/Five_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/d/dd/Harmonic_seventh_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/f/f7/Six_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/9/9a/7_steps_in_just_A12_on_middle_C_C%E2%86%937%2B.mid
+http://upload.wikimedia.org/wikipedia/commons/f/f7/Seven_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/b/ba/Septimal_chromatic_semitone_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/f/f5/Eight_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/3/31/9_steps_in_just_A12_on_middle_C_D23.mid
+http://upload.wikimedia.org/wikipedia/commons/c/c3/Nine_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/6/6d/Just_major_tenth_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/3/3e/Ten_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/2/2a/Eleventh_harmonic_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/8/89/Eleven_steps_in_A12_on_middle_C.mid
+http://upload.wikimedia.org/wikipedia/commons/d/d3/Tritave_on_C.mid
+visited = 7
+http://www.huygens-fokker.org/bpsite/otherscales.html
+visited = 8
+https://en.wikipedia.org/w/index.php?title=Template:Musical_tuning&action=edit
+visited = 9
+http://115.146.93.142/samplewiki/Harry_Partch's_43-tone_scale
+visited = 10
+http://115.146.93.142/samplewiki/Pythagorean_tuning
+visited = 11
+https://en.wikipedia.org/w/index.php?title=A12_scale&action=edit
+visited = 12
+https://en.wikipedia.org/w/index.php?title=Template:Music-theory-stub&action=edit
+visited = 13
+https://en.wikipedia.org/w/index.php?title=A12_scale&oldid=851865803
+visited = 14
+http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+visited = 15
+https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+visited = 16
+https://www.wikidata.org/wiki/Special:EntityPage/Q16241639
+visited = 17
+https://commons.wikimedia.org/wiki/Category:A12
+visited = 18
+http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+visited = 19
+http://creativecommons.org/licenses/by-sa/3.0/
+visited = 20
+http://foundation.wikimedia.org/wiki/Terms_of_Use
+visited = 21
+http://foundation.wikimedia.org/wiki/Privacy_policy
+visited = 22
+http://www.wikimediafoundation.org/
+visited = 23
+https://foundation.wikimedia.org/wiki/Privacy_policy
+visited = 24
+http://en.m.wikipedia.org/w/index.php?title=A12_scale&mobileaction=toggle_view_mobile
+visited = 25
+https://developer.wikimedia.org
+visited = 26
+https://stats.wikimedia.org/
+visited = 27
+https://foundation.wikimedia.org/wiki/Cookie_statement
+visited = 28
+https://wikimediafoundation.org/
+visited = 29
+https://www.mediawiki.org/
+visited = 30
+http://upload.wikimedia.org/wikipedia/commons/9/9a/Minor_sixth_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/6/68/Pythagorean_minor_sixth_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/4/41/Just_minor_sixth_on_C.mid
+http://115.146.93.142/samplewiki/Perfect_fifth
+visited = 31
+http://115.146.93.142/samplewiki/Perfect_fourth
+visited = 32
+https://en.wikipedia.org/w/index.php?title=Template:Intervals&action=edit
+visited = 33
+http://115.146.93.142/samplewiki/Septimal_diatonic_semitone
+visited = 34
+http://115.146.93.142/samplewiki/Syntonic_comma
+visited = 35
+http://115.146.93.142/samplewiki/Septimal_diesis
+visited = 36
+https://en.wikipedia.org/w/index.php?title=Minor_sixth&oldid=1070780008
+visited = 37
+https://www.wikidata.org/wiki/Special:EntityPage/Q1801010
+visited = 38
+https://commons.wikimedia.org/wiki/Category:Minor_sixths
+visited = 39
+https://et.wikipedia.org/wiki/V%C3%A4ike_sekst
+visited = 40
+https://fa.wikipedia.org/wiki/%D8%B4%D8%B4%D9%85_%DA%A9%D9%88%DA%86%DA%A9
+visited = 41
+https://fr.wikipedia.org/wiki/Sixte_mineure
+visited = 42
+https://it.wikipedia.org/wiki/Sesta_minore
+visited = 43
+https://lt.wikipedia.org/wiki/Ma%C5%BEoji_seksta
+visited = 44
+https://ja.wikipedia.org/wiki/%E7%9F%AD%E5%85%AD%E5%BA%A6
+visited = 45
+https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%85%AD%E5%BA%A6
+visited = 46
+http://en.m.wikipedia.org/w/index.php?title=Minor_sixth&mobileaction=toggle_view_mobile
+visited = 47
+http://www.huygens-fokker.org/bpsite/publication0178.html
+visited = 48
+
+visited:    48 pages; to_visit:   998 pages
+http://115.146.93.142/samplewiki/A12_scale
+http://upload.wikimedia.org/wikipedia/commons/0/09/A12_4_7_10_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/8/8c/A12_scale_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/4/4c/Unison_on_C.mid
+http://upload.wikimedia.org/wikipedia/commons/4/46/Four_steps_in_A12_on_middle_C.mid
+http://115.146.93.142/samplewiki/Undecimal_minor_sixth
+http://upload.wikimedia.org/wikipedia/commons/d/d3/Tritave_on_C.mid
+http://www.huygens-fokker.org/bpsite/otherscales.html
+https://en.wikipedia.org/w/index.php?title=Template:Musical_tuning&action=edit
+http://115.146.93.142/samplewiki/Harry_Partch's_43-tone_scale
+http://115.146.93.142/samplewiki/Pythagorean_tuning
+https://en.wikipedia.org/w/index.php?title=A12_scale&action=edit
+https://en.wikipedia.org/w/index.php?title=Template:Music-theory-stub&action=edit
+https://en.wikipedia.org/w/index.php?title=A12_scale&oldid=851865803
+http://en.wikipedia.org/wiki/Wikipedia:Contact_us
+https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+https://www.wikidata.org/wiki/Special:EntityPage/Q16241639
+https://commons.wikimedia.org/wiki/Category:A12
+http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+http://creativecommons.org/licenses/by-sa/3.0/
+http://foundation.wikimedia.org/wiki/Terms_of_Use
+http://foundation.wikimedia.org/wiki/Privacy_policy
+http://www.wikimediafoundation.org/
+https://foundation.wikimedia.org/wiki/Privacy_policy
+http://en.m.wikipedia.org/w/index.php?title=A12_scale&mobileaction=toggle_view_mobile
+https://developer.wikimedia.org
+https://stats.wikimedia.org/
+https://foundation.wikimedia.org/wiki/Cookie_statement
+https://wikimediafoundation.org/
+https://www.mediawiki.org/
+http://115.146.93.142/samplewiki/Perfect_fifth
+http://115.146.93.142/samplewiki/Perfect_fourth
+https://en.wikipedia.org/w/index.php?title=Template:Intervals&action=edit
+http://115.146.93.142/samplewiki/Septimal_diatonic_semitone
+http://115.146.93.142/samplewiki/Syntonic_comma
+http://115.146.93.142/samplewiki/Septimal_diesis
+https://en.wikipedia.org/w/index.php?title=Minor_sixth&oldid=1070780008
+https://www.wikidata.org/wiki/Special:EntityPage/Q1801010
+https://commons.wikimedia.org/wiki/Category:Minor_sixths
+https://et.wikipedia.org/wiki/V%C3%A4ike_sekst
+https://fa.wikipedia.org/wiki/%D8%B4%D8%B4%D9%85_%DA%A9%D9%88%DA%86%DA%A9
+https://fr.wikipedia.org/wiki/Sixte_mineure
+https://it.wikipedia.org/wiki/Sesta_minore
+https://lt.wikipedia.org/wiki/Ma%C5%BEoji_seksta
+https://ja.wikipedia.org/wiki/%E7%9F%AD%E5%85%AD%E5%BA%A6
+https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%85%AD%E5%BA%A6
+http://en.m.wikipedia.org/w/index.php?title=Minor_sixth&mobileaction=toggle_view_mobile
+http://www.huygens-fokker.org/bpsite/publication0178.html
+<a href="/samplewiki/Mark_Monaghan" title="Mark Monaghan">Mark Monaghan</a>
+<a href="/samplewiki/Marie-Clare_Boothby" title="Marie-Clare Boothby">Marie-Clare Boothby</a>
+<a href="/samplewiki/Joshua_Burgoyne" title="Joshua Burgoyne">Joshua Burgoyne</a>
+<a href="/samplewiki/Steve_Edgington" title="Steve Edgington">Steve Edgington</a>
+<a href="/samplewiki/Jo_Hersey" title="Jo Hersey">Jo Hersey</a>
+<a accesskey="c" href="/samplewiki/Gerard_Maley" title="View the content page [c]"><span>Article</span></a>
+<a href="/samplewiki/Gerard_Maley"><span>Read</span></a>
+first
+next
+first
+next
+http://115.146.93.142/samplewiki/Gerard_Maley
+visited = 1
+http://115.146.93.142/samplewiki/Gerard_Maley
+visited = 1
+https://www.katherinetimes.com.au/story/6931530/swag-of-opposition-portfolios-for-new-katherine-mla/
+visited = 2
+https://ntindependent.com.au/nt-election-2020-candidates-gerard-maley/
+https://www.maleyslegal.com/about-us
+https://www.countryliberal.org/gerardmaley.html
