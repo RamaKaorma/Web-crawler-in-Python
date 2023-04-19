@@ -34,5 +34,18 @@ def task2(link_to_extract: str, json_filename: str):
     # Scrape the code, aka, get the html to pull out the links in the page, once done, flag as visited
     soup = bs4.BeautifulSoup(page.text, 'html.parser')
     body = soup.find('div', id='mw-content-text')
-
+    print(soup)
+    for tag in soup('th'):
+        if tag['class'] == 'infobox-label':
+            tag.decompose()
+    for tag in soup('div'):
+        if tag['class'] == ('printffoter' or 'asbox') or tag['id'] == 'toc':
+            tag.decompose()
+    for tag in soup('table'):
+        if tag['class'] == 'ambox':
+            tag.decompose()
+    for tag in soup('span'):
+        if tag['class'] == 'mw-editsection':
+            tag.decompose()
+    print(soup)
     return {}
