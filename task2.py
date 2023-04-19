@@ -65,40 +65,32 @@ def task2(link_to_extract: str, json_filename: str):
     ### Tokenize ################################################################
     # Extract the text from the html
     data = []
-    for data_tags in body.findAll():
-        data.append(data_tags.get_text(''))
-    
+    for data_tags in body.contents:
+        data.append(data_tags.get_text(separator=' ', strip=True))
+    text = ' '.join(data)
+
     # Casefold and normalize
-    process_data = []
-    for i in data:
-        d = i.casefold()
-        d = unicodedata.normalize('NFKD', d)
-        process_data.append(d)
+    normal = text.casefold()
+    normal = unicodedata.normalize('NFKD', normal)
     
     # replace non-alphabetic characters with single sapce
-    process_data2 = []
-    for j in process_data:
-        process_data2.append(re.sub(r'[^a-zA-Z\s\\]', ' ', j))
+    alpha = re.sub(r'[^a-zA-Z\s\\]', ' ', normal)
     
     # Replace whitespaces, newlines and tabs with single space
-    nospace_data = []
-    for token in process_data2:
-        nospace_data.append(re.sub('\s+', ' ', token))
+    nospace_data = re.sub('\s+', ' ', alpha)
     
     # Create explicit tokens, and remove empty strings ''
-    tokens = []
-    for token in nospace_data:
-        sub_tokens = word_tokenize(token)
-        for i in sub_tokens:
-            if (i != ''):
-                tokens.append(i)
+    tokens = word_tokenize(nospace_data)
+    for token in tokens:
+        if token == '':
+            tokens.remove(token)
     
     # Remove English stopwords (first run the following on the command line) 
         # python
         # >> import nltk
         # >> nltk.download('stopwords')
     stop_words = set(stopwords.words('english'))
-    tokens_no_stop = [word for word in tokens if word not in stop_words]
+    tokens_no_stop = [word for word in tokens if (word.isalpha() and word not in stop_words)]
     
     # Remove short words
     tokens_no_stop = [word for word in tokens_no_stop if len(word) >= 2]
