@@ -35,11 +35,17 @@ def task2(link_to_extract: str, json_filename: str):
     soup = bs4.BeautifulSoup(page.text, 'html.parser')
     body = soup.find('div', id='mw-content-text')
 
+    print(soup)
+    print('\n\n\n\n\n\n\n\n\n\n\n\n')
+    # tags = []
     for tag in soup.findAll():
         name = tag.name
         for elem in INVALID:
             if name == elem and tag.get(INVALID[elem][0]):
                 if INVALID[elem][1] in tag.get(INVALID[elem][0]) and tag is not None:
                     tag.decompose()
+                    # tags.append(tag)
                     break
+
+    print(soup) # No change, it is identical to line 38 print()
     return {}
