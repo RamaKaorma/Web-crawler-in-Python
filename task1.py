@@ -132,7 +132,7 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
             output[start_link].append(full_url)
     
     # Dump the output in a json file
-    with open(f'task1_my_{directory}', 'w') as f:
+    with open(json_filename, 'w') as f:
         output_json = json.dump(output, f)
 
     return output_json

@@ -1,0 +1,341 @@
+<div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:A12_triad_on_C.png"><img alt="" class="thumbimage" data-file-height="486" data-file-width="837" decoding="async" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/A12_triad_on_C.png/220px-A12_triad_on_C.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/A12_triad_on_C.png/330px-A12_triad_on_C.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/A12_triad_on_C.png/440px-A12_triad_on_C.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:A12_triad_on_C.png" title="Enlarge"></a></div>A12 triad (4:7:10) in conventional notation. <span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:A12_4_7_10_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/0/09/A12_4_7_10_on_C.mid" title="A12 4 7 10 on C.mid">Play</a></span> <small class="metadata audiolinkinfo" style="cursor:help;">(<a class="mw-redirect" href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:A12_4_7_10_on_C.mid" title="File:A12 4 7 10 on C.mid"><span style="cursor:help;">info</span></a>)</small></span></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:112px;"><a class="image" href="/wiki/File:12-tet_and_A12_tuning_intervals_compared.png"><img alt="" class="thumbimage" data-file-height="960" data-file-width="360" decoding="async" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/12-tet_and_A12_tuning_intervals_compared.png/110px-12-tet_and_A12_tuning_intervals_compared.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/12-tet_and_A12_tuning_intervals_compared.png/165px-12-tet_and_A12_tuning_intervals_compared.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/12-tet_and_A12_tuning_intervals_compared.png/220px-12-tet_and_A12_tuning_intervals_compared.png 2x" width="110"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:12-tet_and_A12_tuning_intervals_compared.png" title="Enlarge"></a></div>Octave 12-tet (left) compared with tritave 12-tet (right)</div></div></div>
+<p><b>A12</b> (<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:A12_scale_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/8/8c/A12_scale_on_C.mid" title="A12 scale on C.mid">Play</a></span> <small class="metadata audiolinkinfo" style="cursor:help;">(<a class="mw-redirect" href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:A12_scale_on_C.mid" title="File:A12 scale on C.mid"><span style="cursor:help;">info</span></a>)</small></span>) is a non-<a class="mw-redirect" href="/wiki/Octave-repeating_scale" title="Octave-repeating scale">octave-repeating scale</a> or <a href="/wiki/Musical_tuning" title="Musical tuning">musical tuning</a> featuring twelve steps to the <a class="mw-redirect" href="/wiki/Tritave" title="Tritave">tritave</a>. As <a class="mw-redirect" href="/wiki/Twelve_equal_temperament" title="Twelve equal temperament">twelve steps to the octave</a> is based on a triad of <a href="/wiki/Harmonic" title="Harmonic">harmonics</a> 4:5:6 (root, major third, perfect fifth), <span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Just_major_triad_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/5/51/Just_major_triad_on_C.mid" title="Just major triad on C.mid">Play</a></span> <small class="metadata audiolinkinfo" style="cursor:help;">(<a class="mw-redirect" href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:Just_major_triad_on_C.mid" title="File:Just major triad on C.mid"><span style="cursor:help;">info</span></a>)</small></span> A12 is based on a triad of harmonics 4:7:10 (<a href="/wiki/Root_(chord)" title="Root (chord)">root</a>, <a href="/wiki/Harmonic_seventh" title="Harmonic seventh">harmonic seventh</a>, and compound <a href="/wiki/Major_third" title="Major third">major third</a>).<sup class="reference" id="cite_ref-Other_1-0"><a href="#cite_note-Other-1">[1]</a></sup> Discovered by <a href="/wiki/Heinz_Bohlen" title="Heinz Bohlen">Heinz Bohlen</a> between 1972 and 1973,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> it was named "A12" by Enrique Moreno.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Bohlen considered this scale less logically consistent than the <a href="/wiki/Bohlen%E2%80%93Pierce_scale" title="Bohlen–Pierce scale">Bohlen–Pierce scale</a>, which has thirteen steps in the twelfth.
+</p>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Step
+</th>
+<th>Ratio
+</th>
+<th>Audio
+</th>
+<th>Cents (just)
+</th>
+<th>Audio
+</th>
+<th>Cents (ET)
+</th>
+<th>Difference
+</th></tr>
+<tr>
+<td>0
+</td>
+<td>1/1
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Unison_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/4/4c/Unison_on_C.mid" title="Unison on C.mid">Play</a></span></span>
+</td>
+<td>0
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Unison_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/4/4c/Unison_on_C.mid" title="Unison on C.mid">Play</a></span></span>
+</td>
+<td>0
+</td>
+<td>0
+</td></tr>
+<tr>
+<td>1
+</td>
+<td><a class="mw-redirect" href="/wiki/Greater_undecimal_neutral_second" title="Greater undecimal neutral second">11/10</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Greater_undecimal_neutral_second_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/7/79/Greater_undecimal_neutral_second_on_C.mid" title="Greater undecimal neutral second on C.mid">Play</a></span></span>
+</td>
+<td>165.00
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:One_step_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/6/63/One_step_in_A12_on_middle_C.mid" title="One step in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>158.50
+</td>
+<td>-6.50
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><a class="mw-redirect" href="/wiki/Just_minor_third" title="Just minor third">6/5</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Just_minor_third_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/4/42/Just_minor_third_on_C.mid" title="Just minor third on C.mid">Play</a></span></span>
+</td>
+<td>315.64
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Two_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/1/1d/Two_steps_in_A12_on_middle_C.mid" title="Two steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>316.99
+</td>
+<td>1.35
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>30/23
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:3_steps_in_just_A12_on_middle_C_FU23.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/c/c1/3_steps_in_just_A12_on_middle_C_FU23.mid" title="3 steps in just A12 on middle C FU23.mid">Play</a></span></span>
+</td>
+<td>459.99
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Three_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/6/6c/Three_steps_in_A12_on_middle_C.mid" title="Three steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>475.49
+</td>
+<td>15.50
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><a class="mw-redirect" href="/wiki/Greater_septimal_tritone" title="Greater septimal tritone">10/7</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Greater_septimal_tritone_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/e/e3/Greater_septimal_tritone_on_C.mid" title="Greater septimal tritone on C.mid">Play</a></span></span>
+</td>
+<td>617.49
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Four_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/4/46/Four_steps_in_A12_on_middle_C.mid" title="Four steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>633.99
+</td>
+<td>16.50
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><a class="mw-redirect" href="/samplewiki/Undecimal_minor_sixth" title="Undecimal minor sixth">11/7</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Undecimal_minor_sixth_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/7/7c/Undecimal_minor_sixth_on_C.mid" title="Undecimal minor sixth on C.mid">Play</a></span></span>
+</td>
+<td>782.49
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Five_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/d/d0/Five_steps_in_A12_on_middle_C.mid" title="Five steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>792.48
+</td>
+<td>9.99
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><a href="/wiki/Harmonic_seventh" title="Harmonic seventh">7/4</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Harmonic_seventh_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/d/dd/Harmonic_seventh_on_C.mid" title="Harmonic seventh on C.mid">Play</a></span></span>
+</td>
+<td>968.83
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Six_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/f7/Six_steps_in_A12_on_middle_C.mid" title="Six steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>950.98
+</td>
+<td>-17.85
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>21/11
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:7_steps_in_just_A12_on_middle_C_C%E2%86%937%2B.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/9/9a/7_steps_in_just_A12_on_middle_C_C%E2%86%937%2B.mid" title="7 steps in just A12 on middle C C↓7+.mid">Play</a></span></span>
+</td>
+<td>1119.46
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Seven_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/f7/Seven_steps_in_A12_on_middle_C.mid" title="Seven steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>1109.48
+</td>
+<td>-9.99
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><a href="/wiki/Septimal_chromatic_semitone" title="Septimal chromatic semitone">21/10</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Septimal_chromatic_semitone_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/b/ba/Septimal_chromatic_semitone_on_C.mid" title="Septimal chromatic semitone on C.mid">Play</a></span></span>
+</td>
+<td>1284.47
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Eight_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/f/f5/Eight_steps_in_A12_on_middle_C.mid" title="Eight steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>1267.97
+</td>
+<td>-16.50
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>23/10
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:9_steps_in_just_A12_on_middle_C_D23.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/3/31/9_steps_in_just_A12_on_middle_C_D23.mid" title="9 steps in just A12 on middle C D23.mid">Play</a></span></span>
+</td>
+<td>1441.96
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Nine_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/c/c3/Nine_steps_in_A12_on_middle_C.mid" title="Nine steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>1426.47
+</td>
+<td>-15.49
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><a class="mw-redirect" href="/wiki/Just_major_third" title="Just major third">5/2</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Just_major_tenth_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/6/6d/Just_major_tenth_on_C.mid" title="Just major tenth on C.mid">Play</a></span></span>
+</td>
+<td>1586.31
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Ten_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/3/3e/Ten_steps_in_A12_on_middle_C.mid" title="Ten steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>1584.97
+</td>
+<td>-1.35
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><a class="mw-redirect" href="/wiki/Eleventh_harmonic" title="Eleventh harmonic">11/4</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Eleventh_harmonic_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/2/2a/Eleventh_harmonic_on_C.mid" title="Eleventh harmonic on C.mid">Play</a></span></span>
+</td>
+<td>1751.32
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Eleven_steps_in_A12_on_middle_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/8/89/Eleven_steps_in_A12_on_middle_C.mid" title="Eleven steps in A12 on middle C.mid">Play</a></span></span>
+</td>
+<td>1743.46
+</td>
+<td>-7.86
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><a class="mw-redirect" href="/wiki/Just_perfect_fifth" title="Just perfect fifth">3/1</a>
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Tritave_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/d/d3/Tritave_on_C.mid" title="Tritave on C.mid">Play</a></span></span>
+</td>
+<td>1901.96
+</td>
+<td><span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Tritave_on_C.mid" title="About this sound"><img alt="" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/></a></span><a class="internal" href="//upload.wikimedia.org/wikipedia/commons/d/d3/Tritave_on_C.mid" title="Tritave on C.mid">Play</a></span></span>
+</td>
+<td>1901.96
+</td>
+<td>0
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/833_cents_scale" title="833 cents scale">833 cents scale</a></li>
+<li><a href="/wiki/Bohlen%E2%80%93Pierce_scale" title="Bohlen–Pierce scale">Bohlen–Pierce scale</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Other-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Other_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a class="external text" href="http://www.huygens-fokker.org/bpsite/otherscales.html" rel="nofollow">"Other Unusual Scales"</a>. <i>The Bohlen–Pierce Site</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 November</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Bohlen%E2%80%93Pierce+Site&amp;rft.atitle=Other+Unusual+Scales&amp;rft_id=http%3A%2F%2Fwww.huygens-fokker.org%2Fbpsite%2Fotherscales.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA12+scale"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Bohlen, Heinz: 13 Tonstufen in der Duodezime. <i>Acustica</i>, vol. 39 no. 2, S. Hirzel Verlag, Stuttgart, 1978, pp. 76 - 86. Cited in <a class="external text" href="http://www.huygens-fokker.org/bpsite/otherscales.html" rel="nofollow">"Other Unusual Scales"</a>, <i>The Bohlen–Pierce Site</i>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link href="mw-data:TemplateStyles:r1067248974" rel="mw-deduplicated-inline-style"/><cite class="citation journal cs1" id="CITEREFMoreno1995">Moreno, Enrique Ignacio (Dec 1995). "Embedding Equal Pitch Spaces and The Question of Expanded Chromas: An Experimental Approach". <i>Dissertation</i>. Stanford University: 12–22.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dissertation&amp;rft.atitle=Embedding+Equal+Pitch+Spaces+and+The+Question+of+Expanded+Chromas%3A+An+Experimental+Approach&amp;rft.pages=12-22&amp;rft.date=1995-12&amp;rft.aulast=Moreno&amp;rft.aufirst=Enrique+Ignacio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA12+scale"></span> Cited in <a class="external text" href="http://www.huygens-fokker.org/bpsite/otherscales.html" rel="nofollow">"Other Unusual Scales"</a>, <i>The Bohlen–Pierce Site</i>.</span>
+</li>
+</ol></div></div>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div aria-labelledby="Musical_tunings" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Musical_tuning" title="Template:Musical tuning"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Musical_tuning" title="Template talk:Musical tuning"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Musical_tuning&amp;action=edit"><abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Musical_tunings" style="font-size:114%;margin:0 4em"><a href="/wiki/Musical_tuning" title="Musical tuning">Musical tunings</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Measurement</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Pitch_(music)" title="Pitch (music)">Pitch</a></li>
+<li><a href="/wiki/Cent_(music)" title="Cent (music)">Cent</a></li>
+<li><a href="/wiki/Millioctave" title="Millioctave">Millioctave</a></li>
+<li><a href="/wiki/Savart" title="Savart">Savart</a></li>
+<li><a href="/wiki/Interval_(music)" title="Interval (music)">Interval</a></li>
+<li><a href="/wiki/Interval_ratio" title="Interval ratio">Interval ratio</a></li>
+<li><a href="/wiki/Pitch_class" title="Pitch class">Pitch class</a></li>
+<li><a href="/wiki/Consonance_and_dissonance" title="Consonance and dissonance">Consonance and dissonance</a></li>
+<li><a href="/wiki/List_of_pitch_intervals" title="List of pitch intervals">List of musical intervals</a></li>
+<li><a href="/wiki/List_of_intervals_in_5-limit_just_intonation" title="List of intervals in 5-limit just intonation">List of intervals in 5-limit just intonation</a></li>
+<li><a href="/wiki/List_of_meantone_intervals" title="List of meantone intervals">List of meantone intervals</a></li>
+<li><a href="/wiki/Microtonal_music" title="Microtonal music">Microtone</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Just_intonation" title="Just intonation">Just intonation</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Euler%E2%80%93Fokker_genus" title="Euler–Fokker genus">Euler–Fokker genus</a></li>
+<li><a href="/wiki/Harmonic_scale" title="Harmonic scale">Harmonic scale</a></li>
+<li><a href="/samplewiki/Harry_Partch's_43-tone_scale" title="Harry Partch's 43-tone scale">Harry Partch's 43-tone scale</a></li>
+<li><a href="/wiki/Hexany" title="Hexany">Hexany</a></li>
+<li><a href="/wiki/Limit_(music)" title="Limit (music)">Limit</a>
+<ul><li><a href="/wiki/Five-limit_tuning" title="Five-limit tuning">5-limit</a></li>
+<li><a href="/wiki/7-limit_tuning" title="7-limit tuning">7-limit</a></li></ul></li>
+<li><a href="/wiki/List_of_compositions_in_just_intonation" title="List of compositions in just intonation">List of compositions</a></li>
+<li><a href="/wiki/Otonality_and_Utonality" title="Otonality and Utonality">Otonality</a></li>
+<li><a href="/wiki/Ptolemy%27s_intense_diatonic_scale" title="Ptolemy's intense diatonic scale">Ptolemy's intense diatonic scale</a></li>
+<li><a href="/samplewiki/Pythagorean_tuning" title="Pythagorean tuning">Pythagorean tuning</a></li>
+<li><a href="/wiki/Scale_of_harmonics" title="Scale of harmonics">Scale of harmonics</a></li>
+<li><a href="/wiki/Tonality_diamond" title="Tonality diamond">Tonality diamond</a></li>
+<li><a href="/wiki/Tonality_flux" title="Tonality flux">Tonality flux</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Musical_temperament" title="Musical temperament">Temperaments</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Equal_temperament" title="Equal temperament">Equal</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Whole-tone_scale" title="Whole-tone scale">6-tone</a></li>
+<li><a href="/wiki/12_equal_temperament" title="12 equal temperament">12-tone</a></li>
+<li><a href="/wiki/15_equal_temperament" title="15 equal temperament">15-tone</a></li>
+<li><a href="/wiki/17_equal_temperament" title="17 equal temperament">17-tone</a></li>
+<li><a href="/wiki/19_equal_temperament" title="19 equal temperament">19-tone</a></li>
+<li><a href="/wiki/22_equal_temperament" title="22 equal temperament">22-tone</a></li>
+<li><a href="/wiki/23_equal_temperament" title="23 equal temperament">23-tone</a></li>
+<li><a href="/wiki/Quarter_tone" title="Quarter tone">24-tone</a> (<a href="/wiki/List_of_quarter_tone_pieces" title="List of quarter tone pieces">pieces</a>)</li>
+<li><a href="/wiki/31_equal_temperament" title="31 equal temperament">31-tone</a></li>
+<li><a href="/wiki/34_equal_temperament" title="34 equal temperament">34-tone</a></li>
+<li><a href="/wiki/41_equal_temperament" title="41 equal temperament">41-tone</a></li>
+<li><a href="/wiki/53_equal_temperament" title="53 equal temperament">53-tone</a></li>
+<li><a href="/wiki/58_equal_temperament" title="58 equal temperament">58-tone</a></li>
+<li><a href="/wiki/72_equal_temperament" title="72 equal temperament">72-tone</a></li>
+<li><a href="/wiki/96_equal_temperament" title="96 equal temperament">96-tone</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Regular_temperament" title="Regular temperament">Linear</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Meantone_temperament" title="Meantone temperament">Meantone</a> (<a href="/wiki/Quarter-comma_meantone" title="Quarter-comma meantone">quarter-comma</a>, <a href="/wiki/Septimal_meantone_temperament" title="Septimal meantone temperament">septimal</a>)</li>
+<li><a href="/wiki/Schismatic_temperament" title="Schismatic temperament">Schismatic</a></li>
+<li><a class="mw-redirect" href="/wiki/Miracle_temperament" title="Miracle temperament">Miracle</a></li>
+<li><a href="/wiki/Magic_temperament" title="Magic temperament">Magic</a></li>
+<li><a href="/wiki/Regular_diatonic_tuning" title="Regular diatonic tuning">Regular diatonic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Irregular</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><a href="/wiki/Well_temperament" title="Well temperament">Well temperament</a>/<a href="/wiki/Temperament_ordinaire" title="Temperament ordinaire">Temperament ordinaire</a> (<a href="/wiki/Kirnberger_temperament" title="Kirnberger temperament">Kirnberger</a>, <a href="/wiki/Vallotti_temperament" title="Vallotti temperament">Vallotti</a>, <a href="/wiki/Werckmeister_temperament" title="Werckmeister temperament">Werckmeister</a>, <a href="/wiki/Young_temperament" title="Young temperament">Young</a>)</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Traditional<br/> non-Western</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chinese_musicology" title="Chinese musicology">Chinese musicology</a></li>
+<li><a href="/wiki/Sh%C3%AD-%C3%A8r-l%C7%9C" title="Shí-èr-lǜ">Shí-èr-lǜ</a></li>
+<li><a href="/wiki/Dastgah" title="Dastgah">Dastgah</a></li>
+<li>Maqam
+<ul><li><a href="/wiki/Arabic_maqam" title="Arabic maqam">Arabic maqam</a></li>
+<li><a href="/wiki/Turkish_makam" title="Turkish makam">Turkish makam</a></li>
+<li><a href="/wiki/Mugham" title="Mugham">Mugham</a></li>
+<li><a href="/wiki/Muqam" title="Muqam">Muqam</a></li></ul></li>
+<li><a href="/wiki/Octoechos" title="Octoechos">Octoechos</a></li>
+<li><a href="/wiki/Pelog" title="Pelog">Pelog</a></li>
+<li><a href="/wiki/Raga" title="Raga">Raga</a> (<a href="/wiki/Carnatic_raga" title="Carnatic raga">Carnatic raga</a>)</li>
+<li><a href="/wiki/Slendro" title="Slendro">Slendro</a></li>
+<li><a href="/wiki/Tetrachord" title="Tetrachord">Tetrachord</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Non-octave</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/833_cents_scale" title="833 cents scale">833 cents scale</a></li>
+<li><a class="mw-selflink selflink">A12 scale</a></li>
+<li><a href="/wiki/Alpha_scale" title="Alpha scale">Alpha scale</a></li>
+<li><a href="/wiki/Beta_scale" title="Beta scale">Beta scale</a></li>
+<li><a href="/wiki/Gamma_scale" title="Gamma scale">Gamma scale</a></li>
+<li><a href="/wiki/Delta_scale" title="Delta scale">Delta scale</a></li>
+<li><a href="/wiki/Bohlen%E2%80%93Pierce_scale" title="Bohlen–Pierce scale">Lambda scale</a> (Bohlen–Pierce)</li></ul>
+</div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style>
+<!--
+NewPP limit report
+Parsed by mw1487
+Cached time: 20221214144138
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.270 seconds
+Real time usage: 0.376 seconds
+Preprocessor visited node count: 1731/1000000
+Post‐expand include size: 64617/2097152 bytes
+Template argument size: 5042/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 29/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11418/5000000 bytes
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 2913549/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  267.979      1 -total
+ 36.89%   98.855      1 Template:Reflist
+ 32.93%   88.250     26 Template:Audio-nohelp
+ 28.21%   75.602      1 Template:Cite_web
+ 20.39%   54.650      1 Template:Musical_tuning
+ 20.35%   54.535      2 Template:Navbox
+  5.27%   14.127      1 Template:Music-theory-stub
+  4.76%   12.762      1 Template:Asbox
+  3.12%    8.360      3 Template:Audio
+  2.32%    6.217      1 Template:Cite_journal
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40453623-0!canonical and timestamp 20221214144138 and revision id 851865803.
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
+</div>
