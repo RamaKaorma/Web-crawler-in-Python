@@ -103,7 +103,7 @@ def task2(link_to_extract: str, json_filename: str):
     
     output[link_to_extract] = stemmed_tokens
 
-    print(stemmed_tokens)
+    
     with open(json_filename, 'w') as f:
         json.dump(output, f)
     return output

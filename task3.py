@@ -13,9 +13,10 @@ import unicodedata
 import re
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-
+from sklearn.feature_extraction.text import CountVectorizer
+import csv
 from robots import process_robots, check_link_ok
-
+from task2 import task2
 
 # Task 3 - Producing a Bag Of Words for All Pages (2 Marks)
 def task3(link_dictionary: Dict[str, List[str]], csv_filename: str):
@@ -30,6 +31,21 @@ def task3(link_dictionary: Dict[str, List[str]], csv_filename: str):
     # Implement Task 3 here
 
     # Empty dataframe to demonstrate output data format.
-    dataframe = pd.DataFrame()
+    links_col = []
+    words_col = []
+    seed_col = []
+    dataframe = pd.DataFrame({'link_url': links_col, 'words': words_col, 'seed_url': seed_col}, index=links_col)
+    
+    for seed_url in link_dictionary.keys():
+        links = link_dictionary[seed_url]
+        for link_url in links:
+            sentence = ''
+            words = task2(link_url, 'BoW')
+            for word in words[link_url]:
+                sentence = sentence + ' ' + word
+            dataframe.loc[len(dataframe)] = [link_url, sentence, seed_url]
 
+    dataframe = dataframe.set_index('link_url')
+    dataframe = dataframe.sort_values(by='link_url', ascending=True)
+    dataframe.to_csv(csv_filename)
     return dataframe
