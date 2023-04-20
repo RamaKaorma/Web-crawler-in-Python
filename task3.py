@@ -29,23 +29,24 @@ def task3(link_dictionary: Dict[str, List[str]], csv_filename: str):
     # the file with the name csv_filename, and should have no extra
     # numeric index.
     # Implement Task 3 here
-
+    
     # Empty dataframe to demonstrate output data format.
     links_col = []
     words_col = []
     seed_col = []
-    dataframe = pd.DataFrame({'link_url': links_col, 'words': words_col, 'seed_url': seed_col}, index=links_col)
     
-    for seed_url in link_dictionary.keys():
-        links = link_dictionary[seed_url]
+    for seed_url, links in link_dictionary.items():
+        # links = link_dictionary[seed_url]
         for link_url in links:
             sentence = ''
             words = task2(link_url, 'BoW')
             for word in words[link_url]:
                 sentence = sentence + ' ' + word
-            dataframe.loc[len(dataframe)] = [link_url, sentence, seed_url]
+            links_col.append(link_url)
+            words_col.append(sentence)
+            seed_col.append(seed_url)
 
-    dataframe = dataframe.set_index('link_url')
-    dataframe = dataframe.sort_values(by='link_url', ascending=True)
-    dataframe.to_csv(csv_filename)
-    return dataframe
+    dataframe = pd.DataFrame({'link_url': links_col, 'words': words_col, 'seed_url': seed_col})
+    dataframe.sort_values(['link_url', 'seed_url'], ascending=[True, True])
+    file = dataframe.to_csv(csv_filename, index=False)
+    return file

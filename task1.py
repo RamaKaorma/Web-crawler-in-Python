@@ -31,7 +31,6 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
         parsed_url = urlparse(start_link)
         base_url = parsed_url.scheme + '://' + parsed_url.netloc
         path = parsed_url.path
-        directory = path.split('/')[1]
         # .scheme returns the protocol, .netloc returns the website 
             # www.____.com/net/etc, path is /sub-link/sub-link
 
@@ -64,28 +63,31 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
             # section of the server, other links can freely be ignored"
         links = soup.findAll('a', href=re.compile(f".*\/{path_segment[1]}\/.*"))
 
-        ### PROBLEM: links has the form `<a href=''></a>`
-        ###          to_visit has the form `http://13984305...`
-
         # Check if the seed links cannot be visited, remove if so
-        to_visit = []
-        for link in seed_links:
-            full_url = urljoin(seed_url, link['href'])
-            sub_url = urlparse(link['href'])
-            sub_path = sub_url.path
-            if not check_link_ok(robot_rules, sub_path):
+        for seed in seed_links:
+            # full_url = urljoin(seed_url, seed['href'])
+            sub_url = urlparse(seed['href']).path
+            # sub_path = sub_url
+            if not check_link_ok(robot_rules, sub_url):
                 continue
-            to_visit.append(full_url)
+            links.append(seed)
 
         # Find all outbound links on successor pages and explore each one
         for link in links:
             # Impose a limit to avoid breaking the site
-            if pages_visited == SAFE_PAGE_LIMIT: # Might  need to add `or 'href' not in link.attrs`
+            if pages_visited == SAFE_PAGE_LIMIT:
                 break
-
+            
             # Merge to create the full URL, just for easy access
-            full_url = urljoin(seed_url, link['href'])
-            # print(link)
+            response = ''
+            if type(link) != str:
+                response = link['href']
+                full_url = urljoin(seed_url, response)
+            else:
+                sub_link = link.split('/')
+                response = sub_link[3] + sub_link[4]
+                full_url = urljoin(seed_url, response)
+            print(link)
             
             # Get the page, check if accessible
             page = requests.get(full_url)
@@ -97,19 +99,22 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
             visited[link] = True
 
             
-            # Check if link and path abides by robots.txt... Append to to_visit if meets both rules
-            sub_url = urlparse(link['href'])
+            # Check if link and path abides by robots.txt... Append to links if meets both rules
+            sub_url = urlparse(response)
             sub_path = sub_url.path
             if link not in seed_links and sub_path == path:
-                if not check_link_ok(robot_rules, link['href']) or not check_link_ok(robot_rules, sub_path):
-                    continue
-                to_visit.append(full_url)
-            
+                if check_link_ok(robot_rules, response) or check_link_ok(robot_rules, sub_path):
+                    links.append(link)
+                
+            for i in links:
+                print(i)
+            print('==================================')
             # Explore the links inside the current link
             new_links = soup.findAll('a', href=re.compile(f".*\/{path_segment[1]}\/.*"))
             for new_link in new_links:
+                
                 # Skip links that don't lead anywhere
-                if 'href' not in link.attrs: # Might need to add: `pages_visited == SAFE_PAGE_LIMIT or`
+                if 'href' not in link.attrs:
                     continue
                 
                 new_item = new_link['href']
@@ -121,19 +126,18 @@ def task1(starting_links: List[str], json_filename: str) -> Dict[str, List[str]]
                 if not check_link_ok(robot_rules, new_item):
                     continue
 
-                # Need to concat with base_url to get an absolute link, 
-                # an example item <a href="/wiki/Category:Marvel_Cinematic_Universe_images_by_film_series"> 
+                # Need to concat with base_url to get an absolute link,
                 new_url = urljoin(base_url, new_item)
-                # print("new_url      " + new_url)
-                # Check it's not already in the list before adding it  and (new_parsed_url.netloc == base_url).
-                if new_url not in visited and new_url not in to_visit:
-                    to_visit.append(new_url)
 
+                # Check it's not already in the list before adding it 
+                if new_url not in visited and new_url not in links:
+                    links.append(new_url)
+            
             # Increase the number of pages we've visited so the page limit is enforced.
             pages_visited = pages_visited + 1
             # Add the link to the json file
             output[start_link].append(full_url)
-    
+            
     # Dump the output in a json file
     with open(json_filename, 'w') as f:
         output_json = json.dump(output, f)
