@@ -1,0 +1,3 @@
+- Web crawler that respects Robots.txt (robots.py was NOT written by Rama)
+- Bag of Words
+- PCA
